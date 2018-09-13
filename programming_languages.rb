@@ -1,3 +1,6 @@
+ require 'pry'
+ 
+ 
  new_hash = {} 
    languages.each do |style, description|
     description.each do |lang, type|
